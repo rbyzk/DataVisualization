@@ -37,8 +37,7 @@ All notebooks are written in Python and focus on clear, interpretable, and beaut
 To explore the repository on your local machine:
 
 ```bash
-git clone https://github.com/rbyzk/data-visualization-notes.git
-cd data-visualization-notes
+git clone https://github.com/rbyzk/DataVisualization.git
 ```
 
 ## 🤝 Contributing
